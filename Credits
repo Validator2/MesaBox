@@ -10,24 +10,28 @@ Crowbar Collective
 "Black Mesa" assets located in "bms"
 "Black Mesa: OAR Uncut" located in "bms_oaru"
 Official stance: Content cannot be locked behind a paywall. Ad revenue monetized videos are allowed.
+Source maps provided!
 
 PSR Digital
 "Black Mesa: Hazard Course" assets located in "hcourse"
-"Black Mesa: further Data" assets located in "bms_fd"
-Specific permission from development head "DKY", under the condition that their assets are separate/distinct from other teams, and their content is not locked behind a paywall.
+"Black Mesa: Further Data" assets located in "bms_fd"
+Specific permission from "DKY" and "Chris Bryant", under the condition that their assets are separate/distinct from other teams, and their content is not locked behind a paywall.
+No source maps or files, must decompile.
 
 HECU Collective
 "Black Mesa: Blue Shift" assets located in "bshift"
 Specific permission from development head "Faber", under the condition that their content is not locked behind a paywall.
+Source maps obtained through connections and team membership.
 
 (Multiple) Source 1 Addons
 Authors denoted by name and file structure.
 "MesaBox: Source 1 Addons" located in "mb_s1addons"
 Generally only individual models, textures, or small bits of content. Anything of significant size will be made into its own folder in the directory.
+Permission on a case-by-case basis. Proof of credit provided inside relavent content folders.
 
 Dependency legend
-basegame < addon --- "addon" relies on and/or overwrites "basegame"
-[namehere] --- unique, no dependencies.
+basegame < addon  --- "addon" relies on and/or overwrites "basegame"
+[namehere]        --- unique, no dependencies.
 
 Dependencies
 bshift > bms > [hl2]
@@ -36,5 +40,3 @@ bms_oaru > bms > [hl2]
 mb_s1addons > bms > [hl2]
 bms_fd > bms > [hl2]
 bms > [hl2]
-
-bshift = hcourse = bms_oaru
