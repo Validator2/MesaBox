@@ -1,6 +1,7 @@
 # MesaBox
 
 The intended selling point of this roleplay gamemode:
+
 iWutta: "Chaotic roleplay concealed within a serious, realism oriented environment."
 
 Realism vs gameplay convenience... that is the main mindset behind the so-called "Half-Reality: Black Mesa Roleplay" (MesaBox) so to speak. 
