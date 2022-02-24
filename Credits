@@ -1,0 +1,40 @@
+We need an accurate system to credit people, especially given that we will almost always be relying on "free use" content.
+
+Given there's no solid way to differentiate assets individually (yet), each contributing development entity gets its own directory. This makes it easier for players (or job recruiters/etc) to find where a specific asset comes from, regardless of its implementation. As these assets are a part of a sandbox environment, we need to emphasize nearly complete usage, outside of direct monetization or claiming the content as our creation.
+
+Valve
+"Half-Life 2" assets located in "hl2"
+Official stance: Content cannot be locked behind a paywall. Ad revenue monetized videos are allowed.
+
+Crowbar Collective
+"Black Mesa" assets located in "bms"
+"Black Mesa: OAR Uncut" located in "bms_oaru"
+Official stance: Content cannot be locked behind a paywall. Ad revenue monetized videos are allowed.
+
+PSR Digital
+"Black Mesa: Hazard Course" assets located in "hcourse"
+"Black Mesa: further Data" assets located in "bms_fd"
+Specific permission from development head "DKY", under the condition that their assets are separate/distinct from other teams, and their content is not locked behind a paywall.
+
+HECU Collective
+"Black Mesa: Blue Shift" assets located in "bshift"
+Specific permission from development head "Faber", under the condition that their content is not locked behind a paywall.
+
+(Multiple) Source 1 Addons
+Authors denoted by name and file structure.
+"MesaBox: Source 1 Addons" located in "mb_s1addons"
+Generally only individual models, textures, or small bits of content. Anything of significant size will be made into its own folder in the directory.
+
+Dependency legend
+basegame < addon --- "addon" relies on and/or overwrites "basegame"
+[namehere] --- unique, no dependencies.
+
+Dependencies
+bshift > bms > [hl2]
+hcourse > bms > [hl2]
+bms_oaru > bms > [hl2]
+mb_s1addons > bms > [hl2]
+bms_fd > bms > [hl2]
+bms > [hl2]
+
+bshift = hcourse = bms_oaru
