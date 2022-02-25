@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T02:33:39.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 OPR/83.0.4254.46" etag="MXepFhA-0Ig2xxKyo43L" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T02:34:39.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 OPR/83.0.4254.46" etag="-zDF3xfUwWWaEoqbY6Kv" version="16.6.4" type="github">
   <diagram id="pAxz8__UEu0tE-uq1FwQ" name="Page-1">
-    <mxGraphModel dx="2607" dy="2077" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3376" dy="2505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -314,7 +314,7 @@
           <mxGeometry x="110" y="-360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fsi9qY0LOS0fLVxbP0fn-48" value="West Personnel Entrance" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="320" y="-560" width="80" height="80" as="geometry" />
+          <mxGeometry x="325" y="-500" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fsi9qY0LOS0fLVxbP0fn-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#B20000;fillColor=#e51400;" edge="1" parent="1" source="fsi9qY0LOS0fLVxbP0fn-52" target="fsi9qY0LOS0fLVxbP0fn-12">
           <mxGeometry relative="1" as="geometry" />
@@ -484,6 +484,9 @@
         </mxCell>
         <mxCell id="fsi9qY0LOS0fLVxbP0fn-134" value="Cliff" style="rounded=0;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="-600" y="240" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fsi9qY0LOS0fLVxbP0fn-136" value="Airstrip" style="rounded=0;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="-620" width="920" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
