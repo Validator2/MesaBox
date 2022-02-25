@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T02:13:34.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 OPR/83.0.4254.46" etag="AFa0VllbCQ5r-6fKpWl8" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T02:15:05.575Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 OPR/83.0.4254.46" etag="hE0frVlyfZ4tiS06Q2HY" version="16.6.4" type="github">
   <diagram id="pAxz8__UEu0tE-uq1FwQ" name="Page-1">
-    <mxGraphModel dx="2005" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2534" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -185,7 +185,7 @@
           <mxGeometry x="110" y="-240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fsi9qY0LOS0fLVxbP0fn-9" value="Area 8 Topside Dorms" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-850" y="70" width="80" height="80" as="geometry" />
+          <mxGeometry x="-850" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fsi9qY0LOS0fLVxbP0fn-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#B20000;fillColor=#e51400;" edge="1" parent="1" source="fsi9qY0LOS0fLVxbP0fn-12" target="gdxoQut8BHxpfie8aeQP-17">
           <mxGeometry relative="1" as="geometry" />
@@ -199,11 +199,18 @@
         <mxCell id="fsi9qY0LOS0fLVxbP0fn-12" value="Area 3 Amenities" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-250" y="160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fsi9qY0LOS0fLVxbP0fn-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#2D7600;fillColor=#60a917;" edge="1" parent="1" source="fsi9qY0LOS0fLVxbP0fn-13" target="gdxoQut8BHxpfie8aeQP-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fsi9qY0LOS0fLVxbP0fn-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#2D7600;fillColor=#60a917;" edge="1" parent="1" source="fsi9qY0LOS0fLVxbP0fn-13" target="gdxoQut8BHxpfie8aeQP-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-430" y="150" />
+              <mxPoint x="-430" y="190" />
+              <mxPoint x="-260" y="190" />
+              <mxPoint x="-260" y="130" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fsi9qY0LOS0fLVxbP0fn-13" value="East Personnel Entrance" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-770" y="70" width="80" height="80" as="geometry" />
+          <mxGeometry x="-770" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fsi9qY0LOS0fLVxbP0fn-21" value="Sector A Human Resources" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-10" y="-960" width="80" height="80" as="geometry" />
@@ -469,7 +476,7 @@
         <mxCell id="fsi9qY0LOS0fLVxbP0fn-130" value="River" style="rounded=0;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="-360" y="-150" width="50" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="fsi9qY0LOS0fLVxbP0fn-131" value="Outflow" style="rounded=0;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="1">
+        <mxCell id="fsi9qY0LOS0fLVxbP0fn-131" value="Outflow Structure" style="rounded=0;whiteSpace=wrap;html=1;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="-380" y="160" width="90" height="80" as="geometry" />
         </mxCell>
       </root>
