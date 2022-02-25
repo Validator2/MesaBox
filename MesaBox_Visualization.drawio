@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T00:33:18.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 OPR/83.0.4254.46" etag="8Zltp-ECTdil7KoiRpFj" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T00:34:36.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 OPR/83.0.4254.46" etag="Pzx5ztlj4NmaPp9bQpho" version="16.6.4" type="github">
   <diagram id="pAxz8__UEu0tE-uq1FwQ" name="Page-1">
     <mxGraphModel dx="2871" dy="2224" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -264,6 +264,16 @@
         </mxCell>
         <mxCell id="fsi9qY0LOS0fLVxbP0fn-39" value="Sector G Hydroelectric" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-40" y="-240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fsi9qY0LOS0fLVxbP0fn-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeColor=#001DBC;fillColor=#0050ef;" edge="1" parent="1" source="fsi9qY0LOS0fLVxbP0fn-41" target="gdxoQut8BHxpfie8aeQP-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="-200" />
+              <mxPoint x="340" y="-60" />
+              <mxPoint x="460" y="-60" />
+              <mxPoint x="460" y="-20" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="fsi9qY0LOS0fLVxbP0fn-41" value="Sector B Coolant Reserve" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="240" y="-240" width="80" height="80" as="geometry" />
