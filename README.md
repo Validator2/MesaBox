@@ -5,6 +5,7 @@ The intended selling point of this roleplay gamemode:
 iWutta: "Chaotic roleplay concealed within a serious, realism oriented environment."
 
 Game Design Document: https://docs.google.com/document/d/17rsGcaQxRARhR8rgYLWT9PpGmTZYXTMqy8aaoNy0KTM/edit?usp=sharing
+Map/Environment Visualization: https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1#G1DSYFYtM6Ey_4FvHUzOJcx_4XA-vNOYbc
 
 We’ve had several visions for MesaBox. But we’ve all agreed that, at a minimum, it will be a platform to test new or risky RP concepts that other communities may not handle as well. One of the primary concepts we wish to implement is “realism vs gameplay convenience”.
 
